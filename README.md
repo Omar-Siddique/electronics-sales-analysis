@@ -63,9 +63,6 @@ The project delivers an interactive dashboard that provides clear insights into 
 ### 📊 Sales Trends
 ![Sales Trends](sales-trends.png)
 
-### 📈 Overview Dashboard
-![Overview](dashboard-overview..pbix)
-
 ---
 
 ## 💡 Business Recommendations
