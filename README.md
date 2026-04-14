@@ -60,8 +60,8 @@ The project delivers an interactive dashboard that provides clear insights into 
 
 ## 📷 Dashboard Preview
 
-### 📊 Sales Trends
 ![Sales Trends](sales-trends.png)
+![Regional Performance](regional-performance.png)
 
 ---
 
