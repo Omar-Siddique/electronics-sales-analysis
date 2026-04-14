@@ -36,7 +36,7 @@ The dataset includes sales-related information such as:
 
 ## 📊 Key Insights
 
-* North America contributed the highest share of total revenue
+* North America generated approximately 40% of total revenue, making it the highest-performing region
 * Sales showed a significant increase during Q4, indicating seasonal demand
 * Certain product categories generated high revenue but lower profit margins
 * Some regions underperformed compared to overall sales trends
